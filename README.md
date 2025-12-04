@@ -1,4 +1,4 @@
-#<b>Emotion Recognition<br>
+#**Emotion Recognition**
 It's a two hour project. <br>
 The initial idea of this project is simply make emotion recognition using deepface. But I found about a few pre-trained libraries like mediapipe, deepface, and opencv. So I used openCV for facial recognition and mesh based analysis. So it is catagorized into three different parts. <br>
 1.Mesh Analysis.<br>
